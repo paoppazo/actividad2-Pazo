@@ -7,15 +7,15 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f1b3c7;
+    background-color: #fdec8b;
 }
 
 header, nav, main, aside, footer {
     padding: 20px;
     margin: 10px;
-    background: rgb(233, 210, 107);
+    background: rgb(243, 165, 165);
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(248, 94, 94, 0.1);
+    box-shadow: 0 0 10px rgba(102, 204, 252, 0.1);
 }
 
 nav ul {
@@ -44,7 +44,7 @@ main {
 
 aside {
     width: calc(20% - 20px); /* Resto 20px para que no colapse por el margin-left y margin-rigth */
-    background: #89fce3;
+    background: #7dcebc;
 }
 
 section {
@@ -53,7 +53,7 @@ section {
 }
 
 article {
-    border-bottom: 1px solid #b4ee71;
+    border-bottom: 1px solid #bcee83;
     padding-bottom: 10px;
     margin-bottom: 10px;
 }
