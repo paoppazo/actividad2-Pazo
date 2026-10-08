@@ -44,7 +44,7 @@ main {
 
 aside {
     width: calc(20% - 20px); /* Resto 20px para que no colapse por el margin-left y margin-rigth */
-    background: #7dcebc;
+    background: #89fce3;
 }
 
 section {
@@ -53,7 +53,7 @@ section {
 }
 
 article {
-    border-bottom: 1px solid #bcee83;
+    border-bottom: 1px solid #b4ee71;
     padding-bottom: 10px;
     margin-bottom: 10px;
 }
